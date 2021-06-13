@@ -1,0 +1,26 @@
+{
+  "name": "nodeproxy",
+  "version": "1.0.0",
+  "description": "Proxy server written in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iselink/nodeProxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Iselink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iselink/nodeProxy/issues"
+  },
+  "homepage": "https://github.com/iselink/nodeProxy#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "simple-socks": "^2.2.1"
+  }
+}
