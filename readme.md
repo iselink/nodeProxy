@@ -24,6 +24,6 @@ Hi-end proxy server running under NodeJS.
 
 Written with these awesome dependencies.
 
-- [log4js](log4js-node/log4js-node) - Provide logging.
-- [simple-socks](brozeph/simple-socks) - Lower-level socks5 implementation.
+- [log4js](https://github.com/log4js-node/log4js-node) - Provide logging.
+- [simple-socks](https://github.com/brozeph/simple-socks) - Lower-level socks5 implementation.
 
